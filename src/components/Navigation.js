@@ -10,7 +10,7 @@ const Navigation = ({ account, setAccount }) => {
   return (
     <nav>
       <div className='nav__brand'>
-        <h1>Dappcord</h1>
+        <h1>UtkarshCord</h1>
       </div>
 
       {account ? (
