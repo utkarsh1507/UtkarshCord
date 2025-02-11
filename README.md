@@ -1,3 +1,5 @@
+@Author Utkarsh Srivastava
+utkarshzz007@gmail.com
 # Dappcord
 
 ## Technology Stack & Tools
